@@ -1,0 +1,11 @@
+.suppr{
+    border: none;
+    border: solid 1 px black;
+    background-color: rgb(179, 176, 173);
+    padding: 7px 12px;
+    border-radius: 50%;
+}
+.suppr:hover{
+    background-color: rgb(235, 70, 70);
+    transition: 0.25s ease-in-out;
+}
